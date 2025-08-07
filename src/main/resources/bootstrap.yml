@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: library-service
+  profiles:
+    active: dev
+  cloud:
+    config:
+      uri: http://localhost:8888  # Config Server URL
+      label: main
+      fail-fast: true
