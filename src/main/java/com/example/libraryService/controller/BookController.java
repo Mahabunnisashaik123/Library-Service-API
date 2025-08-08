@@ -51,7 +51,7 @@ public class BookController {
     private InventoryClientService inventoryClientService;
 
     // -----------------------------------------------------------
-    // POST: Create a new book
+    // POST: Creating a new book
     // -----------------------------------------------------------
 
     /**
