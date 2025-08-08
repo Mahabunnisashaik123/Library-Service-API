@@ -27,7 +27,5 @@ public class SwaggerConfig {
                 .externalDocs(new ExternalDocumentation()
                         .description("Library Service Wiki Documentation")
                         .url("https://library-docs.example.com"));
-        
-        //commit test
     }
 }
